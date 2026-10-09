@@ -1,0 +1,31 @@
+State,District,Crop,Season,Area_hectares,Production_tonnes
+Andhra Pradesh,Guntur,Rice,Kharif,120,420
+Andhra Pradesh,Krishna,Rice,Kharif,150,540
+Andhra Pradesh,Kurnool,Cotton,Kharif,90,180
+Telangana,Warangal,Cotton,Kharif,110,220
+Telangana,Nizamabad,Rice,Kharif,130,455
+Punjab,Ludhiana,Wheat,Rabi,100,400
+Punjab,Amritsar,Wheat,Rabi,125,500
+Haryana,Karnal,Wheat,Rabi,115,460
+Uttar Pradesh,Meerut,Sugarcane,Annual,80,640
+Uttar Pradesh,Agra,Wheat,Rabi,95,342
+Maharashtra,Nashik,Onion,Rabi,70,210
+Maharashtra,Pune,Sugarcane,Annual,85,680
+Karnataka,Mysuru,Rice,Kharif,100,330
+Karnataka,Belagavi,Sugarcane,Annual,75,600
+Tamil Nadu,Thanjavur,Rice,Kharif,140,490
+Tamil Nadu,Coimbatore,Cotton,Kharif,65,130
+West Bengal,Burdwan,Rice,Kharif,160,560
+Bihar,Patna,Wheat,Rabi,90,315
+Rajasthan,Jaipur,Bajra,Kharif,105,210
+Madhya Pradesh,Indore,Soybean,Kharif,130,260
+Gujarat,Rajkot,Groundnut,Kharif,100,250
+Odisha,Cuttack,Rice,Kharif,110,385
+Assam,Nagaon,Rice,Kharif,80,280
+Kerala,Palakkad,Rice,Kharif,60,180
+Andhra Pradesh,Nellore,Rice,Rabi,95,332
+Telangana,Karimnagar,Maize,Kharif,100,350
+Maharashtra,Nagpur,Orange,Annual,50,150
+Uttar Pradesh,Varanasi,Rice,Kharif,120,420
+Punjab,Patiala,Wheat,Rabi,135,540
+Haryana,Hisar,Cotton,Kharif,85,170
